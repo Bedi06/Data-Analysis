@@ -1,5 +1,7 @@
 # Virtual environment
 .venv/
+.idea/
+
 
 # Python cache files
 __pycache__/
@@ -7,7 +9,7 @@ __pycache__/
 *.pyo
 
 # Editor-specific files
-.idea/
+
 *.iml
 .vscode/
 *.log
