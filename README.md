@@ -85,4 +85,3 @@ This project is licensed under the MIT Licence. Please take a look at the [LICEN
 
 ---
 
-Feel free to adjust any section as needed for your specific project details.
